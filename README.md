@@ -2,9 +2,12 @@
 
 This project is a chatbot AI assistant built with OpenAI, JavaScript, React.js, Next.js, and Material-UI. It features a chat interface where users can interact with the chatbot, and provides functionality to collect user feedback which is saved to a Firebase database.
 
-![Screenshot](https://github.com/Dhrumit26/AI-assistant-chat.git/scr/first.png)
-![Screenshot](https://github.com/Dhrumit26/AI-assistant-chat.git/scr/second.png)
-![Screenshot](https://github.com/Dhrumit26/AI-assistant-chat.git/scr/third.png)
+<img width="1508" alt="first" src="https://github.com/user-attachments/assets/e67d3849-efb1-4889-98fd-ad9b61da4075">
+
+
+<img width="1504" alt="second" src="https://github.com/user-attachments/assets/a2ba7af0-9fa1-430d-8dac-639edcd0fb83">
+
+<img width="1160" alt="third" src="https://github.com/user-attachments/assets/53a9cadf-a719-4db3-88a3-06f81b642ce5">
 
 ## Features
 
